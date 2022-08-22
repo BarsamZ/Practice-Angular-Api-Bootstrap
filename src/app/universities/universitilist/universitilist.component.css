@@ -1,0 +1,21 @@
+body{
+    background-color: lightgrey;
+    text-align: center;
+}
+
+.btn btn-primary{
+padding: 40rem;
+margin: 20rem;
+}
+
+.text_muted{
+    font-size: medium;
+}
+
+.address{
+    font-size: medium;
+    padding: auto;
+    margin: auto;
+    color: midnightblue;
+    
+}
